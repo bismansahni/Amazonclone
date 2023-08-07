@@ -1,0 +1,34 @@
+* {
+  font-family: sans-serif;
+  color: white;
+  font-size: 22;
+}
+
+#navbox {
+  height: 40px;
+  background-color: #0f1111;
+}
+
+#navboxbottom {
+  background-color: #5b5555;
+  height: 40px;
+}
+
+#afirst {
+  margin-right: 150px;
+}
+#logo {
+  color: yellow;
+}
+
+#search {
+  background-color: yellow;
+}
+
+#firstinp {
+  color: black;
+}
+
+#asecond {
+  margin-left: 20px;
+}
